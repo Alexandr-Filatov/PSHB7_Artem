@@ -781,7 +781,7 @@
       {
         "filename": "PSHB_7.kicad_sch",
         "name": "PSHB_7",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
       }
     ],
     "used_designators": "",
@@ -790,7 +790,7 @@
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "Root"
+      "PSHB_7"
     ],
     [
       "24ca47b2-866f-4c90-ba1b-98c358d573e6",
