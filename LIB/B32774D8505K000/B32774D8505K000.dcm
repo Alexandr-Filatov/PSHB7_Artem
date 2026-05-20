@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B32774D8505K000
+D EPCOS - B32774D8505K000 - DC Film Capacitor, 5 F, 800 V, Metallized PP, +/- 10%, B32774 Series
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/film/mkp_mfp/data_sheet/20/20/db/fc_2009/mkp_b32774_778.pdf
+$ENDCMP
+#
+#End Doc Library

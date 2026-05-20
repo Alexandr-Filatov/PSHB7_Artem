@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NSI1311
+#/20003767/1233143/2.50/8/3/Integrated Circuit
+DEF NSI1311 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "NSI1311" 1050 200 50 H V L CNN
+F2 "SOIC127P1150X280-8N" 1050 100 50 H I L CNN
+F3 "https://www.novosns.com/files/NSi1311_DatasheetRev1.6_EN.pdf" 1050 0 50 H I L CNN
+F4 "Up to 5000Vrms Insulation voltage  0.02~2V, High-Impedance Input Voltage Range  Fixed Gain: 1  Low Offset Error and Drift: +/-1.5mV (Max), -5~30uV/ (Max)  Low Gain Error and Drift: +/-0.3% (Max), +/-45ppm/ (Max)  Low Nonlinearity and Drift: +/-0.05% (Max) for 0.02V~0.1V VIN +/-0.04% (Max) for 0.1V~2V VIN +/-1ppm/ (Typ)  SNR: 82dB (Typ, BW=10kHz), 70dB (Typ, BW=100kHz)  Wide bandwidth: 400kHz (Typ)  High CMTI: 150kV/us (Typ)" 1050 -100 50 H I L CNN "Description"
+F5 "2.8" 1050 -200 50 H I L CNN "Height"
+F6 "NOVOSENSE" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "NSI1311" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VDD1 1 0 0 200 R 50 50 0 0 P
+X VIN 2 0 -100 200 R 50 50 0 0 P
+X SHTDN 3 0 -200 200 R 50 50 0 0 P
+X GND1 4 0 -300 200 R 50 50 0 0 P
+X VDD2 8 1200 0 200 L 50 50 0 0 P
+X OUTP 7 1200 -100 200 L 50 50 0 0 P
+X OUTN 6 1200 -200 200 L 50 50 0 0 P
+X GND2 5 1200 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

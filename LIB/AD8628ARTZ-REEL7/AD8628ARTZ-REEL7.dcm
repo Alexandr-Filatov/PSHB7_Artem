@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8628ARTZ-REEL7
+D Precision Amplifiers Zero-Drift RRIO SGL-Supply
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8628_8629_8630.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C3M0065100K
+D 1000 V, 65 m, TO-247-4 package, Industrial qualified, Discrete SiC MOSFET
+K
+F https://assets.wolfspeed.com/uploads/2024/01/Wolfspeed_C3M0065100K_data_sheet.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K7805M-1000R3
+D DC DC CONVERTER +/-5V 7.5W
+K
+F https://docs.rs-online.com/dc16/A700000006631882.pdf
+$ENDCMP
+#
+#End Doc Library

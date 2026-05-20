@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IFSC1515AHER220M01
+D VISHAY - IFSC1515AHER220M01 - INDUCTOR, 22UH, 1.2A, 20%, 5MHZ
+K
+F https://www.vishay.com/docs/34295/sc15ah01.pdf
+$ENDCMP
+#
+#End Doc Library

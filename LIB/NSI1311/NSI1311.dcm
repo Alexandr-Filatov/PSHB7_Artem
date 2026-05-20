@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NSI1311
+D Up to 5000Vrms Insulation voltage  0.02~2V, High-Impedance Input Voltage Range  Fixed Gain: 1  Low Offset Error and Drift: +/-1.5mV (Max), -5~30uV/ (Max)  Low Gain Error and Drift: +/-0.3% (Max), +/-45ppm/ (Max)  Low Nonlinearity and Drift: +/-0.05% (Max) for 0.02V~0.1V VIN +/-0.04% (Max) for 0.1V~2V VIN +/-1ppm/ (Typ)  SNR: 82dB (Typ, BW=10kHz), 70dB (Typ, BW=100kHz)  Wide bandwidth: 400kHz (Typ)  High CMTI: 150kV/us (Typ)
+K
+F https://www.novosns.com/files/NSi1311_DatasheetRev1.6_EN.pdf
+$ENDCMP
+#
+#End Doc Library

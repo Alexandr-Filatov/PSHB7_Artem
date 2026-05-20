@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISO7810DWR
+D High-immunity, 100-Mbps, 5.7-kVRMS reinforced single-channel 1/0 digital isolator
+K
+F http://www.ti.com/lit/gpn/iso7810
+$ENDCMP
+#
+#End Doc Library

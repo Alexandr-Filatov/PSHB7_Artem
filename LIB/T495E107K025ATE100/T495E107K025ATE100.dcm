@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T495E107K025ATE100
+D T495, Tantalum, MnO2 Tantalum, Commercial Grade, 100 uF, 10%, 25 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, Large Case, Low ESR, 8 % , 100 mOhms, 25 uA, 803.76 mg, 7360, 3.6mm, Height Max = 3.8mm, 500, 156  Weeks
+K
+F https://content.kemet.com/datasheets/KEM_T2009_T495.pdf
+$ENDCMP
+#
+#End Doc Library

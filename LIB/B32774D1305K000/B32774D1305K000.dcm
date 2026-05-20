@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B32774D1305K000
+D Metallized Polypropylene Capacitors (MKP/MFP), 3uF, 1300V DC, 18mm(W) x 27.5mm(H) x 31.5mm(L)
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/film/mkp_mfp/data_sheet/20/20/db/fc_2009/mkp_b32774_778.pdf
+$ENDCMP
+#
+#End Doc Library

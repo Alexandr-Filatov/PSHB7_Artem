@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS431ILT
+D Adjustable shunt voltage reference IC (automotive for SOT23-5)
+K
+F https://www.st.com/resource/en/datasheet/ts431.pdf
+$ENDCMP
+#
+#End Doc Library

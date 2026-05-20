@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADUM1100ARZ-RL7
+D Digital Isolators iCoupler Digital Isolator
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/adum1100.pdf
+$ENDCMP
+#
+#End Doc Library

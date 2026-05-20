@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AD8628ARTZ-REEL7
+#/233756/1233143/2.50/5/3/Integrated Circuit
+DEF AD8628ARTZ-REEL7 IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "AD8628ARTZ-REEL7" 850 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 850 100 50 H I L CNN
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8628_8629_8630.pdf" 850 0 50 H I L CNN
+F4 "Precision Amplifiers Zero-Drift RRIO SGL-Supply" 850 -100 50 H I L CNN "Description"
+F5 "1.45" 850 -200 50 H I L CNN "Height"
+F6 "Analog Devices" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AD8628ARTZ-REEL7" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "584-AD8628ARTZ-R7" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8628ARTZ-REEL7?qs=%2FtpEQrCGXCxqv8byfgwiwQ%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "AD8628ARTZ-REEL7" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ad8628artz-reel7/analog-devices?region=nac" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 O
+X V- 2 0 -100 200 R 50 50 0 0 P
+X +IN 3 0 -200 200 R 50 50 0 0 I
+X -IN 4 1000 0 200 L 50 50 0 0 I
+X V+ 5 1000 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
